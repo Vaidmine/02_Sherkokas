@@ -39,6 +39,8 @@ div {
         p {
             display: inline-block;
             width: 100%;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 16px;
         }
 
         a {
